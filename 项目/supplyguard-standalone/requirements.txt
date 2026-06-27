@@ -1,0 +1,23 @@
+streamlit>=1.28.0
+pandas>=2.0.0
+plotly>=5.17.0
+
+# API 服务
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
+
+# 数据库（可选，用于生产环境）
+# sqlalchemy>=2.0.0
+# psycopg2-binary>=2.9.0
+
+# 缓存（可选）
+# redis>=5.0.0
+
+# 可选进阶功能
+# langchain
+# langgraph
+# qdrant-client
+# neo4j
+# sentence-transformers
+# openai

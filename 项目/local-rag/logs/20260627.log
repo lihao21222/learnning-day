@@ -1,0 +1,201 @@
+2026-06-27 10:20:36 - knowledge_base_qa - INFO - 初始化文档加载器: C:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-27 10:20:36 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-27 10:20:36 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-27 10:20:36 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:20:36 - knowledge_base_qa - INFO - 加载文件: 物流包装介绍.txt
+2026-06-27 10:20:36 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:20:36 - knowledge_base_qa - INFO - 目录加载完成: 总计 3 个文档片段
+2026-06-27 10:20:36 - knowledge_base_qa - INFO - 添加了 3 个文档到检索器，总计: 3
+2026-06-27 10:20:36 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:20:37 - knowledge_base_qa - INFO - 收到查询: 物流包装的主要功能是什么？
+2026-06-27 10:20:37 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:20:37 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:20:37 - knowledge_base_qa - INFO - 收到查询: 绿色包装的原则有哪些？
+2026-06-27 10:20:37 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:20:37 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:20:38 - knowledge_base_qa - INFO - 收到查询: 物流包装标准化有什么好处？
+2026-06-27 10:20:38 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:20:38 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:22:14 - knowledge_base_qa - INFO - 初始化文档加载器: C:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-27 10:22:14 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-27 10:22:14 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-27 10:22:14 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:22:14 - knowledge_base_qa - INFO - 加载文件: 物流包装介绍.txt
+2026-06-27 10:22:14 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:22:14 - knowledge_base_qa - INFO - 目录加载完成: 总计 2 个文档片段
+2026-06-27 10:22:14 - knowledge_base_qa - INFO - 添加了 2 个文档到检索器，总计: 2
+2026-06-27 10:22:14 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:22:15 - knowledge_base_qa - INFO - 收到查询: 物流包装的主要功能是什么？
+2026-06-27 10:22:15 - knowledge_base_qa - INFO - 检索完成: 找到 2 个相关文档
+2026-06-27 10:22:15 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:22:15 - knowledge_base_qa - INFO - 收到查询: 绿色包装的原则有哪些？
+2026-06-27 10:22:15 - knowledge_base_qa - INFO - 检索完成: 找到 2 个相关文档
+2026-06-27 10:22:15 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:22:16 - knowledge_base_qa - INFO - 收到查询: 物流包装标准化有什么好处？
+2026-06-27 10:22:16 - knowledge_base_qa - INFO - 检索完成: 找到 2 个相关文档
+2026-06-27 10:22:16 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - 初始化文档加载器: C:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - 加载文件: 物流包装介绍.txt
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - 目录加载完成: 总计 2 个文档片段
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - 添加了 2 个文档到检索器，总计: 2
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - 收到查询: 物流包装的主要功能是什么？
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - 检索完成: 找到 2 个相关文档
+2026-06-27 10:25:13 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:25:14 - knowledge_base_qa - INFO - 收到查询: 绿色包装的原则有哪些？
+2026-06-27 10:25:14 - knowledge_base_qa - INFO - 检索完成: 找到 2 个相关文档
+2026-06-27 10:25:14 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:25:14 - knowledge_base_qa - INFO - 收到查询: 物流包装标准化有什么好处？
+2026-06-27 10:25:14 - knowledge_base_qa - INFO - 检索完成: 找到 2 个相关文档
+2026-06-27 10:25:14 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:25:59 - knowledge_base_qa - INFO - 初始化文档加载器: C:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-27 10:25:59 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-27 10:25:59 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-27 10:25:59 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:25:59 - knowledge_base_qa - INFO - 加载文件: 物流包装介绍.txt
+2026-06-27 10:25:59 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:25:59 - knowledge_base_qa - INFO - 目录加载完成: 总计 2 个文档片段
+2026-06-27 10:25:59 - knowledge_base_qa - INFO - 添加了 2 个文档到检索器，总计: 2
+2026-06-27 10:25:59 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:26:33 - knowledge_base_qa - INFO - 收到查询: 我想看一下我的简历
+2026-06-27 10:26:33 - knowledge_base_qa - INFO - 检索完成: 找到 2 个相关文档
+2026-06-27 10:26:33 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:28:08 - knowledge_base_qa - INFO - 初始化文档加载器: C:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-27 10:28:08 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-27 10:28:08 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-27 10:28:08 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:28:08 - knowledge_base_qa - INFO - 加载文件: 物流包装介绍.txt
+2026-06-27 10:28:08 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:28:08 - knowledge_base_qa - INFO - 目录加载完成: 总计 2 个文档片段
+2026-06-27 10:28:08 - knowledge_base_qa - INFO - 添加了 2 个文档到检索器，总计: 2
+2026-06-27 10:28:08 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 初始化文档加载器: C:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 加载文件: Python入门知识.txt
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 加载文件: 物流包装介绍.txt
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 目录加载完成: 总计 3 个文档片段
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 添加了 3 个文档到检索器，总计: 3
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 收到查询: 物流包装的主要功能是什么？
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:29:34 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:29:35 - knowledge_base_qa - INFO - 收到查询: 绿色包装的原则有哪些？
+2026-06-27 10:29:35 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:29:35 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:29:35 - knowledge_base_qa - INFO - 收到查询: 物流包装标准化有什么好处？
+2026-06-27 10:29:35 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:29:35 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 初始化文档加载器: C:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 加载文件: Python入门知识.txt
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 加载文件: 物流包装介绍.txt
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 目录加载完成: 总计 3 个文档片段
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 添加了 3 个文档到检索器，总计: 3
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 收到查询: Python 的特点是什么？
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 检索完成: 找到 1 个相关文档
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 查询完成: 找到 1 个相关文档
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 收到查询: 机器学习有哪些类型？
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 收到查询: 常见的算法有哪些？
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:30:04 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:34:31 - knowledge_base_qa - INFO - 收到查询: 你好
+2026-06-27 10:34:31 - knowledge_base_qa - INFO - 检索完成: 找到 2 个相关文档
+2026-06-27 10:34:31 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:35:00 - knowledge_base_qa - INFO - 收到查询: 物流包装的优缺点
+2026-06-27 10:35:00 - knowledge_base_qa - INFO - 检索完成: 找到 2 个相关文档
+2026-06-27 10:35:00 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:38:42 - knowledge_base_qa - INFO - 初始化文档加载器: C:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-27 10:38:42 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-27 10:38:42 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-27 10:38:42 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:38:42 - knowledge_base_qa - INFO - 加载文件: Python入门知识.txt
+2026-06-27 10:38:42 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:38:42 - knowledge_base_qa - INFO - 加载文件: 物流包装介绍.txt
+2026-06-27 10:38:42 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:38:42 - knowledge_base_qa - INFO - 目录加载完成: 总计 3 个文档片段
+2026-06-27 10:38:42 - knowledge_base_qa - INFO - 添加了 3 个文档到检索器，总计: 3
+2026-06-27 10:38:42 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:38:46 - knowledge_base_qa - INFO - 收到查询: pip install streamlit
+2026-06-27 10:38:46 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:38:46 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:38:46 - knowledge_base_qa - INFO - 收到查询: streamlit run app_simple.py
+2026-06-27 10:38:46 - knowledge_base_qa - INFO - 检索完成: 找到 1 个相关文档
+2026-06-27 10:38:46 - knowledge_base_qa - INFO - 查询完成: 找到 1 个相关文档
+2026-06-27 10:38:53 - knowledge_base_qa - INFO - 收到查询: pip install streamlit
+2026-06-27 10:38:53 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:38:53 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:38:53 - knowledge_base_qa - INFO - 收到查询: streamlit run app_simple.py
+2026-06-27 10:38:53 - knowledge_base_qa - INFO - 检索完成: 找到 1 个相关文档
+2026-06-27 10:38:53 - knowledge_base_qa - INFO - 查询完成: 找到 1 个相关文档
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 初始化文档加载器: c:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 加载文件: Python入门知识.txt
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 加载文件: 物流包装介绍.txt
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 目录加载完成: 总计 3 个文档片段
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 添加了 3 个文档到检索器，总计: 3
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 收到查询: 物流包装的主要功能是什么？
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:41:12 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:41:13 - knowledge_base_qa - INFO - 收到查询: 绿色包装的原则有哪些？
+2026-06-27 10:41:13 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:41:13 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:41:13 - knowledge_base_qa - INFO - 收到查询: 物流包装标准化有什么好处？
+2026-06-27 10:41:13 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-27 10:41:13 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-27 10:41:46 - knowledge_base_qa - INFO - 初始化文档加载器: C:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-27 10:41:46 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-27 10:41:46 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-27 10:41:46 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:41:46 - knowledge_base_qa - INFO - 加载文件: Python入门知识.txt
+2026-06-27 10:41:46 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:41:46 - knowledge_base_qa - INFO - 加载文件: 物流包装介绍.txt
+2026-06-27 10:41:46 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-27 10:41:46 - knowledge_base_qa - INFO - 目录加载完成: 总计 3 个文档片段
+2026-06-27 10:41:46 - knowledge_base_qa - INFO - 添加了 3 个文档到检索器，总计: 3
+2026-06-27 10:41:46 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:56:33 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:56:33 - knowledge_base_qa - INFO - 加载了 3 个原始文档
+2026-06-27 10:56:33 - knowledge_base_qa - INFO - 文档分割完成，共 26 个块
+2026-06-27 10:56:33 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:56:34 - knowledge_base_qa - INFO - 收到查询: 物流包装的主要功能是什么？
+2026-06-27 10:56:34 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:56:34 - knowledge_base_qa - INFO - 收到查询: Python 的特点是什么？
+2026-06-27 10:56:34 - knowledge_base_qa - INFO - 查询完成: 找到 1 个相关文档
+2026-06-27 10:56:35 - knowledge_base_qa - INFO - 收到查询: 绿色包装有什么意义？
+2026-06-27 10:56:35 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:58:25 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 10:58:25 - knowledge_base_qa - INFO - 加载了 3 个原始文档
+2026-06-27 10:58:25 - knowledge_base_qa - INFO - 文档分割完成，共 26 个块
+2026-06-27 10:58:25 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 10:58:26 - knowledge_base_qa - INFO - 收到查询: 物流包装的主要功能是什么？
+2026-06-27 10:58:26 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 10:58:26 - knowledge_base_qa - INFO - 收到查询: Python 的特点是什么？
+2026-06-27 10:58:26 - knowledge_base_qa - INFO - 查询完成: 找到 1 个相关文档
+2026-06-27 10:58:27 - knowledge_base_qa - INFO - 收到查询: 绿色包装有什么意义？
+2026-06-27 10:58:27 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档
+2026-06-27 11:09:35 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-27 11:09:35 - knowledge_base_qa - INFO - 加载了 8 个原始文档
+2026-06-27 11:09:35 - knowledge_base_qa - INFO - 文档分割完成，共 43 个块
+2026-06-27 11:09:35 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-27 11:09:47 - knowledge_base_qa - INFO - 收到查询: 哦的简历
+2026-06-27 11:09:47 - knowledge_base_qa - INFO - 查询完成: 找到 2 个相关文档

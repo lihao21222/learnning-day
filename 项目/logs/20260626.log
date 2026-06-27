@@ -1,0 +1,21 @@
+2026-06-26 20:05:28 - knowledge_base_qa - INFO - 初始化文档加载器: C:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-26 20:05:28 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-26 20:05:28 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-26 20:06:27 - knowledge_base_qa - INFO - 初始化文档加载器: C:\Users\21222\Desktop\新建文件夹\knowledge_base
+2026-06-26 20:06:27 - knowledge_base_qa - INFO - 初始化简易检索器
+2026-06-26 20:06:27 - knowledge_base_qa - INFO - 初始化 RAG 系统
+2026-06-26 20:06:27 - knowledge_base_qa - INFO - 开始初始化 RAG 系统...
+2026-06-26 20:06:27 - knowledge_base_qa - INFO - 加载文件: 物流包装介绍.txt
+2026-06-26 20:06:27 - knowledge_base_qa - INFO - 初始化文本分割器: chunk_size=500, chunk_overlap=50
+2026-06-26 20:06:27 - knowledge_base_qa - INFO - 目录加载完成: 总计 3 个文档片段
+2026-06-26 20:06:27 - knowledge_base_qa - INFO - 添加了 3 个文档到检索器，总计: 3
+2026-06-26 20:06:27 - knowledge_base_qa - INFO - RAG 系统初始化完成！
+2026-06-26 20:06:28 - knowledge_base_qa - INFO - 收到查询: 物流包装的主要功能是什么？
+2026-06-26 20:06:28 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-26 20:06:28 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-26 20:06:28 - knowledge_base_qa - INFO - 收到查询: 绿色包装的原则有哪些？
+2026-06-26 20:06:28 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-26 20:06:28 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
+2026-06-26 20:06:29 - knowledge_base_qa - INFO - 收到查询: 物流包装标准化有什么好处？
+2026-06-26 20:06:29 - knowledge_base_qa - INFO - 检索完成: 找到 3 个相关文档
+2026-06-26 20:06:29 - knowledge_base_qa - INFO - 查询完成: 找到 3 个相关文档
